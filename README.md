@@ -1,5 +1,5 @@
 ### Hi there, I'm Hirtih Kumar 👋
-### I'am a student pursuing my under-grad in computer science
+### I'am a student pursuing my under-grad in computer science and engineering
 <!--
 **cv-hirtihk/cv-hirtihk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
